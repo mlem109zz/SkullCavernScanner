@@ -1,0 +1,9 @@
+{
+  "Enabled": true,
+  "ShowCandidateRocks": true,
+  "ShowGeneratedExit": true,
+  "ShowDropPossibilities": true,
+  "ShowTileCoordinates": true,
+  "HighlightAlpha": 0.88,
+  "ToggleKey": "F8"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Skull Cavern Scanner",
+  "Author": "ChatGPT + user",
+  "Version": "1.0.0",
+  "Description": "Highlights rocks which can spawn a descent, marks the generated descent tile, and shows valid Skull Cavern shaft distances.",
+  "UniqueID": "ChatGPT.SkullCavernScanner",
+  "EntryDll": "SkullCavernScanner.dll",
+  "MinimumApiVersion": "4.0.0"
+}
