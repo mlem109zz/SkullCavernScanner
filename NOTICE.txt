@@ -1,0 +1,2 @@
+The candidate-rock RNG approach is informed by the publicly available LadderLocator project by yuri-moens (MIT license): https://github.com/yuri-moens/LadderLocator
+This project is an independent implementation and does not include LadderLocator binaries or assets.
